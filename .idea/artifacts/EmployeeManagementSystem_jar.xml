@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EmployeeManagementSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EmployeeManagementSystem_jar</output-path>
+    <root id="archive" name="EmployeeManagementSystem.jar">
+      <element id="module-output" name="EmployeeManagementSystem" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../java libraries/jcalendar-1.4/lib/jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../java libraries/rs2xml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../java libraries/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
